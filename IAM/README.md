@@ -1,4 +1,5 @@
 # IAM
+[参考](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-1st-Step-2022-confirmation_849.html)
 
 ## 1. IAMグループ、ユーザ、ポリシー
 
