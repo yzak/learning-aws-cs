@@ -1,4 +1,7 @@
 # S3
+[参考](https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/tutorials.html)
+
+実現したいことを検索してトライしてみよう
 
 ## 1. バージョニングなど
 
