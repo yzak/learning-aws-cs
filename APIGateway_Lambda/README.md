@@ -15,10 +15,11 @@
 
 | 項目  | 内容 | 補足 |  
 | ------------- | ------------- | ------------- | 
-| Lambda関数のランタイム  | Node.js 16.x  | | 
+| Lambda関数のランタイム  | Node.js 18.x  | 最新版 | 
 | Lambda関数のアーキテクチャ  | x86_64 | 
 | Lambda関数のコード  | 以下を利用 | 
 
+- 下記のコードがNode.jsのバージョンによってエラーになる場合は、ChatGPTなどを利用して、書き換えましょう
 
 ```javascript
 exports.handler = async (event) => {
